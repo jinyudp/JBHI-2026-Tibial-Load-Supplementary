@@ -10,7 +10,7 @@ This repository contains the supplementary materials associated with the followi
 
 ## Contents
 
-- `Supplementary_Material.pdf` — Supplementary tables, figures, and methodological details associated with the article.
+- `Supplementary_Materials.pdf` — Supplementary tables, figures, and methodological details associated with the article.
 
 ## Version
 
